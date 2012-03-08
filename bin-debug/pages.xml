@@ -1,0 +1,21 @@
+<nav>
+	<settings
+		root="./"
+		swfroot="swf/"
+		imgroot="images/"
+		background="bg-image.jpg"
+		background-offset="-50,10"
+		motionBlur="true"
+		shiftTime="3"
+		resetTime="5"
+	/>
+	<pages>
+		<page src="web_dev_v1.swf" href="services/web-design/" />
+		<page src="iphone_apps_v1.swf" href="services/iphone-android/" />
+		<page src="web_hosting_v1.swf" href="services/hosting/" />
+		<page src="seo_v1.swf" href="services/search-engine-marketing/" />
+		<page src="social_media_v1.swf" href="services/search-engine-marketing/social-media.php" />
+		<page src="mobi_web_v1.swf" />
+		<page src="featured_site_v1.swf" />
+	</pages>
+</nav>
